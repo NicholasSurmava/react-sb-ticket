@@ -1,0 +1,84 @@
+{
+  "warehouse": [
+    {
+      "id": 111111,
+      "site_name": "mcCree",
+      "site_type": "communication tower",
+      "site_address": {
+        "street": "100 W. Fork",
+        "city": "mars city",
+        "planet": "mars",
+        "lat": 95.44444,
+        "long": -64.0
+      },
+      "equipment": {
+        "data": {
+          "company": "node inc",
+          "equipment_type": "router"
+        }
+      }
+    },
+    {
+      "id": 111112,
+      "site_name": "mcCree",
+      "site_type": "communication tower",
+      "site_address": {
+        "street": "100 W. Fork",
+        "city": "mars city",
+        "planet": "mars",
+        "lat": 95.44444,
+        "long": -64.0
+      },
+      "equipment": {
+        "data": {
+          "company": "node inc",
+          "equipment_type": "router"
+        }
+      }
+    },
+    {
+      "id": 111113,
+      "site_name": "mcCree",
+      "site_type": "communication tower",
+      "site_address": {
+        "street": "100 W. Fork",
+        "city": "mars city",
+        "planet": "mars",
+        "lat": 95.44444,
+        "long": -64.0
+      },
+      "equipment": {
+        "data": {
+          "company": "node inc",
+          "equipment_type": "router"
+        }
+      }
+    },
+    {
+      "id": 111114,
+      "site_name": "mcCree",
+      "site_type": "communication tower",
+      "site_address": {
+        "street": "100 W. Fork",
+        "city": "mars city",
+        "planet": "mars",
+        "lat": 95.44444,
+        "long": -64.0
+      },
+      "equipment": {
+        "data": {
+          "company": "node inc",
+          "equipment_type": "router"
+        }
+      }
+    }
+  ],
+  "foundry": [
+    {
+      "id": 1,
+      "team": "developer",
+      "severity": "high",
+      "summary": "big big big BIG problem"
+    }
+  ]
+}
